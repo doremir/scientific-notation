@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/saebekassebil/scientific-notation",
   "dependencies": {
-    "accidental-value": "erikronstrom/accidental-value",
-    "notecoord": "erikronstrom/notecoord"
+    "accidental-value": "doremir/accidental-value",
+    "notecoord": "doremir/notecoord"
   },
   "devDependencies": {
     "tape": "^2.13.3"
